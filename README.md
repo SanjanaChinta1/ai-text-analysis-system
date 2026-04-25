@@ -39,54 +39,10 @@ It covers data generation, preprocessing, feature extraction, visualization, and
   * Matplotlib, Seaborn
   * TensorFlow / PyTorch
   * Transformers (mBERT)
-  * Streamlit (Dashboard)
 
----
 
-## 📂 Project Structure
 
-```bash
-├── data/                 # Dataset (generated / collected)
-├── notebooks/           # Jupyter notebooks (EDA, experiments)
-├── src/
-│   ├── preprocessing.py
-│   ├── embeddings.py
-│   ├── models.py
-│   ├── visualization.py
-│   └── dashboard.py
-├── app.py               # Streamlit app
-├── requirements.txt
-└── README.md
-```
 
----
-
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-### Run the dashboard
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📊 Dataset
 
