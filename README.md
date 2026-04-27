@@ -1,5 +1,8 @@
 # 🌍 Multilingual Social Media Analysis & Sentiment Detection
-
+Team members :
+Sanjana Chinta - 160123729027
+Nithya Jangam - 160123729028
+Subject Instructor - Mr.Panigrahi Srikanth
 ## 📌 Overview
 
 This project implements a complete **end-to-end NLP pipeline** for analyzing multilingual social media data.
@@ -76,10 +79,6 @@ It covers data generation, preprocessing, feature extraction, visualization, and
   * mBERT for multilingual classification
   * Sentiment analysis model
 
----
 
-## ⚠️ Note
-
-The dataset is synthetically generated, so results may show very high accuracy due to structured and clean data. Real-world datasets may yield different performance.
 
 
